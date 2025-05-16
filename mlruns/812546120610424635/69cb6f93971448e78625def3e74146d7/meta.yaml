@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/69cb6f93971448e78625def3e74146d7/artifacts
+deleted_time: 1747253482091
+end_time: 1747252099385
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 69cb6f93971448e78625def3e74146d7
+run_name: sedate-flea-535
+run_uuid: 69cb6f93971448e78625def3e74146d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252099256
+status: 3
+tags: []
+user_id: dahab

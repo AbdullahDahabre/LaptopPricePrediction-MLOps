@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/9c91b2fb370a4142ba6a567c81e29148/artifacts
+end_time: 1747251795812
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: 9c91b2fb370a4142ba6a567c81e29148
+run_name: brawny-carp-389
+run_uuid: 9c91b2fb370a4142ba6a567c81e29148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251795685
+status: 3
+tags: []
+user_id: dahab

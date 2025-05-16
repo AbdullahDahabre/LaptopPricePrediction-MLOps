@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/8dfba60156e9497bbf8ed077233da61f/artifacts
+deleted_time: 1747253590856
+end_time: 1747251758507
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: 8dfba60156e9497bbf8ed077233da61f
+run_name: SVR
+run_uuid: 8dfba60156e9497bbf8ed077233da61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251758393
+status: 3
+tags: []
+user_id: dahab

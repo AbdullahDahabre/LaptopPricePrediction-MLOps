@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/7d0c500aabaf44b6b12e47e22ecdeb04/artifacts
+deleted_time: 1747253333589
+end_time: 1747245934233
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 7d0c500aabaf44b6b12e47e22ecdeb04
+run_name: Lasso_hyperopt_tuning
+run_uuid: 7d0c500aabaf44b6b12e47e22ecdeb04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747245932550
+status: 3
+tags: []
+user_id: dahab

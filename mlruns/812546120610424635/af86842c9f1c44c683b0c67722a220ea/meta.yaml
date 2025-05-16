@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/af86842c9f1c44c683b0c67722a220ea/artifacts
+end_time: 1747251796261
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: af86842c9f1c44c683b0c67722a220ea
+run_name: smiling-hog-625
+run_uuid: af86842c9f1c44c683b0c67722a220ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251796131
+status: 3
+tags: []
+user_id: dahab

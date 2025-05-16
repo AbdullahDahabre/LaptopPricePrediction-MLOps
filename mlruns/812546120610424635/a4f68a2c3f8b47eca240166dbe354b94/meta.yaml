@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/a4f68a2c3f8b47eca240166dbe354b94/artifacts
+deleted_time: 1747253495634
+end_time: 1747252679293
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: a4f68a2c3f8b47eca240166dbe354b94
+run_name: nimble-asp-588
+run_uuid: a4f68a2c3f8b47eca240166dbe354b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252679154
+status: 3
+tags: []
+user_id: dahab

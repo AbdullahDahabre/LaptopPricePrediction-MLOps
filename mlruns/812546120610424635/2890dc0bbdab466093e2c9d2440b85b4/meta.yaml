@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/2890dc0bbdab466093e2c9d2440b85b4/artifacts
+end_time: 1744932453941
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: 2890dc0bbdab466093e2c9d2440b85b4
+run_name: capable-stag-758
+run_uuid: 2890dc0bbdab466093e2c9d2440b85b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744932453764
+status: 3
+tags: []
+user_id: dahab

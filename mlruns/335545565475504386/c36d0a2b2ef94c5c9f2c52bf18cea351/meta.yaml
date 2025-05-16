@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/c36d0a2b2ef94c5c9f2c52bf18cea351/artifacts
+deleted_time: 1747251476938
+end_time: 1747246261771
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: c36d0a2b2ef94c5c9f2c52bf18cea351
+run_name: LinearRegression
+run_uuid: c36d0a2b2ef94c5c9f2c52bf18cea351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747246261672
+status: 3
+tags: []
+user_id: dahab

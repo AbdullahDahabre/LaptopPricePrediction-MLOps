@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/32bcf7132858419f8fe1fe11218a883e/artifacts
+end_time: 1744931777911
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: 32bcf7132858419f8fe1fe11218a883e
+run_name: casual-bee-848
+run_uuid: 32bcf7132858419f8fe1fe11218a883e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744931777423
+status: 3
+tags: []
+user_id: dahab

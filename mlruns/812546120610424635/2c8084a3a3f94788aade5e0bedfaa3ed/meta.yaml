@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/2c8084a3a3f94788aade5e0bedfaa3ed/artifacts
+end_time: 1744931779693
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: 2c8084a3a3f94788aade5e0bedfaa3ed
+run_name: gaudy-shark-337
+run_uuid: 2c8084a3a3f94788aade5e0bedfaa3ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744931779350
+status: 3
+tags: []
+user_id: dahab

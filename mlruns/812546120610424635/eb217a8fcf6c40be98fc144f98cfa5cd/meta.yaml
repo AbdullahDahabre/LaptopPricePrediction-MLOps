@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/eb217a8fcf6c40be98fc144f98cfa5cd/artifacts
+end_time: 1744932453319
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: eb217a8fcf6c40be98fc144f98cfa5cd
+run_name: blushing-gull-558
+run_uuid: eb217a8fcf6c40be98fc144f98cfa5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744932453024
+status: 3
+tags: []
+user_id: dahab

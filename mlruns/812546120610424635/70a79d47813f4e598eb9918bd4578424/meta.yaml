@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/70a79d47813f4e598eb9918bd4578424/artifacts
+end_time: 1747251797172
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: 70a79d47813f4e598eb9918bd4578424
+run_name: burly-hare-176
+run_uuid: 70a79d47813f4e598eb9918bd4578424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251797048
+status: 3
+tags: []
+user_id: dahab

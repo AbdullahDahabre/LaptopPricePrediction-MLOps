@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747251806293
+current_stage: None
+description: null
+last_updated_timestamp: 1747251806293
+name: LaptopPriceRegressorFinal
+run_id: 29e3677153644f46b8e04717ed752c8f
+run_link: null
+source: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/29e3677153644f46b8e04717ed752c8f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/29e3677153644f46b8e04717ed752c8f/artifacts/model
+user_id: null
+version: 6

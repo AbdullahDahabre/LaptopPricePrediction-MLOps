@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/d5ecd9d480e24340a11a1b358e56ae50/artifacts
+end_time: 1744932453000
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: d5ecd9d480e24340a11a1b358e56ae50
+run_name: melodic-carp-606
+run_uuid: d5ecd9d480e24340a11a1b358e56ae50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744932452794
+status: 3
+tags: []
+user_id: dahab

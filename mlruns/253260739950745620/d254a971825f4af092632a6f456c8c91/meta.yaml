@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/d254a971825f4af092632a6f456c8c91/artifacts
+deleted_time: 1747253280367
+end_time: 1747245760933
+entry_point_name: ''
+experiment_id: '253260739950745620'
+lifecycle_stage: deleted
+run_id: d254a971825f4af092632a6f456c8c91
+run_name: LaptopPricePredictor_Lasso_MSE_31923.63
+run_uuid: d254a971825f4af092632a6f456c8c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747245751807
+status: 3
+tags: []
+user_id: dahab

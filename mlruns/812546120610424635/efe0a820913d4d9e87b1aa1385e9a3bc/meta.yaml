@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/efe0a820913d4d9e87b1aa1385e9a3bc/artifacts
+end_time: 1744931778739
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: efe0a820913d4d9e87b1aa1385e9a3bc
+run_name: gaudy-goat-252
+run_uuid: efe0a820913d4d9e87b1aa1385e9a3bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744931778409
+status: 3
+tags: []
+user_id: dahab

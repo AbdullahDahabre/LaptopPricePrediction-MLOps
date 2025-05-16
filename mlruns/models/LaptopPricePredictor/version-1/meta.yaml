@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744931134679
+current_stage: None
+description: null
+last_updated_timestamp: 1744931134679
+name: LaptopPricePredictor
+run_id: 183cd1171e644befbff89248e2780677
+run_link: null
+source: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/183cd1171e644befbff89248e2780677/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/183cd1171e644befbff89248e2780677/artifacts/model
+user_id: null
+version: 1
