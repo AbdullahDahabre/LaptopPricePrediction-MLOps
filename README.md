@@ -8,7 +8,7 @@ This project demonstrates an end-to-end MLOps pipeline for laptop price predicti
 
 - **Objective:** Build and manage a robust machine learning pipeline for predicting laptop prices using real-world data.
 - **Scope:** Automate data collection, model experimentation, deployment, and continuous monitoring within a reproducible MLOps framework.
-- **Technologies:** Python, MLflow, Scikit-learn, Hyperopt, Kaggle API, FastAPI, Docker.
+- **Technologies:** Python, MLflow, Scikit-learn, Hyperopt, Kaggle API.
 
 ---
 
@@ -30,17 +30,29 @@ This project demonstrates an end-to-end MLOps pipeline for laptop price predicti
 ├── data/ # Dataset storage
 
 ├── src/ # Source code modules
+
 │ ├── ingestion.py # Data ingestion script
+
 │ ├── preprocess.py # Data preprocessing functions
+
 │ ├── model_selection.py # Model evaluation and selection
+
 │ ├── train.py # Model training script
+
 │ ├── tune.py # Hyperparameter tuning script
+
 │ ├── promote.py # Model promotion script (registry)
+
 │ ├── monitor.py # Model monitoring script
+
 │ └── predict.py # Prediction interface script
+
 ├── start_services.py # Launch MLflow UI and model server
+
 ├── run_all.py # Run complete ML pipeline sequentially
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This README file
 
 ---
