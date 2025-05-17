@@ -28,6 +28,7 @@ This project demonstrates an end-to-end MLOps pipeline for laptop price predicti
 ## Project Structure
 
 ├── data/ # Dataset storage
+
 ├── src/ # Source code modules
 │ ├── ingestion.py # Data ingestion script
 │ ├── preprocess.py # Data preprocessing functions
