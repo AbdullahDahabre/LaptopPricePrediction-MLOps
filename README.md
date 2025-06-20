@@ -1,5 +1,5 @@
 # Laptop Price Prediction MLOps Project
-![Laptop Price Prediction Banner]([assets/banner.png](https://www.tzvi.dev/posts/introducing-laptop-price-prediction/featured.png))
+![Laptop Price Prediction Banner](https://www.tzvi.dev/posts/introducing-laptop-price-prediction/featured.png)
 
 This project demonstrates an end-to-end MLOps pipeline for laptop price prediction using multiple regression models. It covers data ingestion, preprocessing, model selection, training, hyperparameter tuning, deployment, registry, monitoring, and user interaction — all automated and managed with MLflow and Streamlit.
 
