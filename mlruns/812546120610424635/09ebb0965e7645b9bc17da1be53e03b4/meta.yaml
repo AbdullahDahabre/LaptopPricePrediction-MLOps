@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/09ebb0965e7645b9bc17da1be53e03b4/artifacts
+deleted_time: 1750271428884
+end_time: 1750270249279
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 09ebb0965e7645b9bc17da1be53e03b4
+run_name: Ridge_hyperopt_tuning
+run_uuid: 09ebb0965e7645b9bc17da1be53e03b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270247781
+status: 3
+tags: []
+user_id: dahab

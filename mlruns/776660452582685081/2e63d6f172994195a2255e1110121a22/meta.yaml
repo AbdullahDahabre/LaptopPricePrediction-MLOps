@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/Desktop/Delivering%20AI%20Applications%20with%20MLOps/LaptopPricePrediction-MLOps/mlruns/776660452582685081/2e63d6f172994195a2255e1110121a22/artifacts
+deleted_time: 1750447431997
+end_time: 1750447048387
+entry_point_name: ''
+experiment_id: '776660452582685081'
+lifecycle_stage: deleted
+run_id: 2e63d6f172994195a2255e1110121a22
+run_name: full_visual_report
+run_uuid: 2e63d6f172994195a2255e1110121a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750447034235
+status: 3
+tags: []
+user_id: dahab

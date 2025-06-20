@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/b4d332f96a1042d682ec51268ba8673c/artifacts
+deleted_time: 1750271703338
+end_time: 1750269350393
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: b4d332f96a1042d682ec51268ba8673c
+run_name: caring-lamb-480
+run_uuid: b4d332f96a1042d682ec51268ba8673c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269350284
+status: 3
+tags: []
+user_id: dahab

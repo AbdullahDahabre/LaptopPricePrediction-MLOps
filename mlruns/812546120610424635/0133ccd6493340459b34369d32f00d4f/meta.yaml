@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/0133ccd6493340459b34369d32f00d4f/artifacts
+deleted_time: 1750271703641
+end_time: 1750270248998
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 0133ccd6493340459b34369d32f00d4f
+run_name: caring-croc-375
+run_uuid: 0133ccd6493340459b34369d32f00d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270248860
+status: 3
+tags: []
+user_id: dahab

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/d32e2de47098490c8d2bed00756b1d55/artifacts
+deleted_time: 1750271815659
+end_time: 1750271425490
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: d32e2de47098490c8d2bed00756b1d55
+run_name: resilient-ape-922
+run_uuid: d32e2de47098490c8d2bed00756b1d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271425320
+status: 3
+tags: []
+user_id: dahab

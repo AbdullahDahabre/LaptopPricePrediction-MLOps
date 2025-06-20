@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/e826e936a4ac45768072b306115b946f/artifacts
+deleted_time: 1747253363348
+end_time: 1747246366010
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: e826e936a4ac45768072b306115b946f
+run_name: big-seal-465
+run_uuid: e826e936a4ac45768072b306115b946f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747246365885
+status: 3
+tags: []
+user_id: dahab

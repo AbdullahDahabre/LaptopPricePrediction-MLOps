@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747245924447
+current_stage: None
+description: null
+last_updated_timestamp: 1747245924447
+name: LaptopPricePredictor_Lasso_MSE_31923.63
+run_id: 2c7d5f579fbf40e297a6c0f81f997b27
+run_link: null
+source: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/2c7d5f579fbf40e297a6c0f81f997b27/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/2c7d5f579fbf40e297a6c0f81f997b27/artifacts/model
+user_id: null
+version: 3

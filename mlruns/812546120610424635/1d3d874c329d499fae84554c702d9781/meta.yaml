@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/1d3d874c329d499fae84554c702d9781/artifacts
+deleted_time: 1750271703466
+end_time: 1750269724222
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 1d3d874c329d499fae84554c702d9781
+run_name: dazzling-hog-359
+run_uuid: 1d3d874c329d499fae84554c702d9781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269724112
+status: 3
+tags: []
+user_id: dahab

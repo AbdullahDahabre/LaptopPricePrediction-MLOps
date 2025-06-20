@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/394203680693475674/6a2d60506d1041b68e3b1c617faac67b/artifacts
+end_time: 1750266543464
+entry_point_name: ''
+experiment_id: '394203680693475674'
+lifecycle_stage: active
+run_id: 6a2d60506d1041b68e3b1c617faac67b
+run_name: industrious-cow-875
+run_uuid: 6a2d60506d1041b68e3b1c617faac67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266543359
+status: 3
+tags: []
+user_id: dahab

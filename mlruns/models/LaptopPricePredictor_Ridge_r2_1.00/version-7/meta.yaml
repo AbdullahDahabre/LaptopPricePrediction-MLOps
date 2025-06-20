@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1750262967143
+current_stage: None
+description: null
+last_updated_timestamp: 1750262967143
+name: LaptopPricePredictor_Ridge_r2_1.00
+run_id: 03f98c09cf91401d8bf68141f2549648
+run_link: null
+source: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/03f98c09cf91401d8bf68141f2549648/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/03f98c09cf91401d8bf68141f2549648/artifacts/model
+user_id: null
+version: 7

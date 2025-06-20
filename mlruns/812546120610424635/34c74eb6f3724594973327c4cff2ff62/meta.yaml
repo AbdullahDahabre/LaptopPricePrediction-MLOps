@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/34c74eb6f3724594973327c4cff2ff62/artifacts
+deleted_time: 1750266860958
+end_time: 1750263745528
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 34c74eb6f3724594973327c4cff2ff62
+run_name: dapper-worm-231
+run_uuid: 34c74eb6f3724594973327c4cff2ff62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750263745423
+status: 3
+tags: []
+user_id: dahab

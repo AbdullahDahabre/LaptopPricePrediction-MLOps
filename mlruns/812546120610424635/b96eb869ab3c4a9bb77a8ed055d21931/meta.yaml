@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/b96eb869ab3c4a9bb77a8ed055d21931/artifacts
+end_time: 1744932455925
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: b96eb869ab3c4a9bb77a8ed055d21931
+run_name: chill-smelt-556
+run_uuid: b96eb869ab3c4a9bb77a8ed055d21931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744932455597
+status: 3
+tags: []
+user_id: dahab

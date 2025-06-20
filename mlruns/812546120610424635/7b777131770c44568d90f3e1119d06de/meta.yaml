@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/7b777131770c44568d90f3e1119d06de/artifacts
+deleted_time: 1747253495707
+end_time: 1747252976179
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 7b777131770c44568d90f3e1119d06de
+run_name: worried-calf-119
+run_uuid: 7b777131770c44568d90f3e1119d06de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252975968
+status: 3
+tags: []
+user_id: dahab

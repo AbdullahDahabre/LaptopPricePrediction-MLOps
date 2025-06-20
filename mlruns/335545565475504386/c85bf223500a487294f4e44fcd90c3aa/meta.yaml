@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/c85bf223500a487294f4e44fcd90c3aa/artifacts
+deleted_time: 1747251477022
+end_time: 1747245897291
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: c85bf223500a487294f4e44fcd90c3aa
+run_name: DecisionTreeRegressor
+run_uuid: c85bf223500a487294f4e44fcd90c3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747245897196
+status: 3
+tags: []
+user_id: dahab

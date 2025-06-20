@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/d87fe6859ae64420b4d80266ffaf0ebe/artifacts
+deleted_time: 1747253590902
+end_time: 1747252062880
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: d87fe6859ae64420b4d80266ffaf0ebe
+run_name: GradientBoostingRegressor
+run_uuid: d87fe6859ae64420b4d80266ffaf0ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252062635
+status: 3
+tags: []
+user_id: dahab

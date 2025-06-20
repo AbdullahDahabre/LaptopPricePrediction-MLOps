@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/fc9fbfe6eee541daa71717c8a14ae25a/artifacts
+deleted_time: 1750271703768
+end_time: 1750271024050
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: fc9fbfe6eee541daa71717c8a14ae25a
+run_name: rogue-finch-516
+run_uuid: fc9fbfe6eee541daa71717c8a14ae25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271023901
+status: 3
+tags: []
+user_id: dahab

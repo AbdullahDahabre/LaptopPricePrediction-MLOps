@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/161cfd88869345e2bf0d01d756e64437/artifacts
+deleted_time: 1750266833662
+end_time: 1750264287296
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: 161cfd88869345e2bf0d01d756e64437
+run_name: best_model_registration
+run_uuid: 161cfd88869345e2bf0d01d756e64437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750264280781
+status: 3
+tags: []
+user_id: dahab

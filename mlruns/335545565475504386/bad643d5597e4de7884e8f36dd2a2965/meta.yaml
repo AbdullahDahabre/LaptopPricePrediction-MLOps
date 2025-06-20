@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/bad643d5597e4de7884e8f36dd2a2965/artifacts
+deleted_time: 1750271779508
+end_time: 1750269637744
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: bad643d5597e4de7884e8f36dd2a2965
+run_name: Lasso
+run_uuid: bad643d5597e4de7884e8f36dd2a2965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269637682
+status: 3
+tags: []
+user_id: dahab

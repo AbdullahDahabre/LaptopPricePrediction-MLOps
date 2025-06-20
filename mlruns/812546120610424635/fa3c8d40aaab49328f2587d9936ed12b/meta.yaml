@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/fa3c8d40aaab49328f2587d9936ed12b/artifacts
+deleted_time: 1750271703501
+end_time: 1750269724850
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: fa3c8d40aaab49328f2587d9936ed12b
+run_name: skittish-carp-967
+run_uuid: fa3c8d40aaab49328f2587d9936ed12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269724703
+status: 3
+tags: []
+user_id: dahab

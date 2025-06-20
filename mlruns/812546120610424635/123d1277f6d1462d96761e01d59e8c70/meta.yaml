@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/123d1277f6d1462d96761e01d59e8c70/artifacts
+deleted_time: 1750266799750
+end_time: 1750264304999
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 123d1277f6d1462d96761e01d59e8c70
+run_name: aged-croc-458
+run_uuid: 123d1277f6d1462d96761e01d59e8c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750264304872
+status: 3
+tags: []
+user_id: dahab

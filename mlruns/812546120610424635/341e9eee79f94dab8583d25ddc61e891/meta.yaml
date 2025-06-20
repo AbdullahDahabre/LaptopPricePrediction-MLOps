@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/341e9eee79f94dab8583d25ddc61e891/artifacts
+deleted_time: 1750271703689
+end_time: 1750270603237
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 341e9eee79f94dab8583d25ddc61e891
+run_name: redolent-squid-610
+run_uuid: 341e9eee79f94dab8583d25ddc61e891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270603128
+status: 3
+tags: []
+user_id: dahab

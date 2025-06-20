@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/fbdb761110294442b8ec95a8acddbb3f/artifacts
+deleted_time: 1747253363366
+end_time: 1747250138657
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: fbdb761110294442b8ec95a8acddbb3f
+run_name: orderly-sponge-600
+run_uuid: fbdb761110294442b8ec95a8acddbb3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250138512
+status: 3
+tags: []
+user_id: dahab

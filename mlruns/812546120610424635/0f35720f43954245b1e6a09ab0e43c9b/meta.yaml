@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/0f35720f43954245b1e6a09ab0e43c9b/artifacts
+deleted_time: 1750266860983
+end_time: 1750266525326
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 0f35720f43954245b1e6a09ab0e43c9b
+run_name: bald-perch-867
+run_uuid: 0f35720f43954245b1e6a09ab0e43c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266525210
+status: 3
+tags: []
+user_id: dahab

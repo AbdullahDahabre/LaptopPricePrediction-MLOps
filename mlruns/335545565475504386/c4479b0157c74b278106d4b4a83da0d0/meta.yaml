@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/c4479b0157c74b278106d4b4a83da0d0/artifacts
+deleted_time: 1750262999142
+end_time: 1750262103386
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: c4479b0157c74b278106d4b4a83da0d0
+run_name: XGBRegressor
+run_uuid: c4479b0157c74b278106d4b4a83da0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750262102020
+status: 3
+tags: []
+user_id: dahab

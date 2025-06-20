@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/7d7dc5d4cdca4565abc1ec9fd88d589a/artifacts
+deleted_time: 1750266860987
+end_time: 1750266525462
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 7d7dc5d4cdca4565abc1ec9fd88d589a
+run_name: nimble-squirrel-416
+run_uuid: 7d7dc5d4cdca4565abc1ec9fd88d589a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266525343
+status: 3
+tags: []
+user_id: dahab

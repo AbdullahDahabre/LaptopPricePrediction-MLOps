@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/649e292c2e954f5583ecc6f3c06ae8bf/artifacts
+deleted_time: 1750271703559
+end_time: 1750270248130
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 649e292c2e954f5583ecc6f3c06ae8bf
+run_name: secretive-colt-16
+run_uuid: 649e292c2e954f5583ecc6f3c06ae8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270248020
+status: 3
+tags: []
+user_id: dahab

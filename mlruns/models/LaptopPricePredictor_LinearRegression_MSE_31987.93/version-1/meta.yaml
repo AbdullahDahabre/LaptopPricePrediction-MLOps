@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747248963802
+current_stage: None
+description: null
+last_updated_timestamp: 1747248963802
+name: LaptopPricePredictor_LinearRegression_MSE_31987.93
+run_id: 050bff5fa0504932966ebf0f5ccfe0d0
+run_link: null
+source: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/050bff5fa0504932966ebf0f5ccfe0d0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/050bff5fa0504932966ebf0f5ccfe0d0/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/de8d39badb574ce484747a78202b10a8/artifacts
+deleted_time: 1747255199199
+end_time: 1747252976408
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: de8d39badb574ce484747a78202b10a8
+run_name: handsome-chimp-275
+run_uuid: de8d39badb574ce484747a78202b10a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252976217
+status: 3
+tags: []
+user_id: dahab

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/0693513bc48e4009899ac6eee498ae06/artifacts
+end_time: 1750266498462
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: active
+run_id: 0693513bc48e4009899ac6eee498ae06
+run_name: KNeighborsRegressor
+run_uuid: 0693513bc48e4009899ac6eee498ae06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266498391
+status: 3
+tags: []
+user_id: dahab

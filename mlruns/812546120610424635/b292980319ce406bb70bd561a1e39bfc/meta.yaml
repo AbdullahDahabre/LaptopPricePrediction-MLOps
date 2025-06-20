@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/b292980319ce406bb70bd561a1e39bfc/artifacts
+deleted_time: 1750271815645
+end_time: 1750271424645
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: b292980319ce406bb70bd561a1e39bfc
+run_name: nimble-foal-362
+run_uuid: b292980319ce406bb70bd561a1e39bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271424430
+status: 3
+tags: []
+user_id: dahab

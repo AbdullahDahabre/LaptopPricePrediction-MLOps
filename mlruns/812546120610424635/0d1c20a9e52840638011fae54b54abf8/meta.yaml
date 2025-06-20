@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/0d1c20a9e52840638011fae54b54abf8/artifacts
+deleted_time: 1750271815677
+end_time: 1750271424825
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 0d1c20a9e52840638011fae54b54abf8
+run_name: whimsical-shrimp-537
+run_uuid: 0d1c20a9e52840638011fae54b54abf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271424675
+status: 3
+tags: []
+user_id: dahab

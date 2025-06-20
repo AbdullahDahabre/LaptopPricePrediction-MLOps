@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/09ac8c1145ce4448867b678864daf9ca/artifacts
+deleted_time: 1747253482102
+end_time: 1747252099539
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 09ac8c1145ce4448867b678864daf9ca
+run_name: nervous-snipe-476
+run_uuid: 09ac8c1145ce4448867b678864daf9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252099412
+status: 3
+tags: []
+user_id: dahab

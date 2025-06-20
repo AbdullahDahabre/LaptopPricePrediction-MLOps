@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/394203680693475674/fa118e61154c4b7089b083a714c4dbcd/artifacts
+deleted_time: 1750271801558
+end_time: 1750270622274
+entry_point_name: ''
+experiment_id: '394203680693475674'
+lifecycle_stage: deleted
+run_id: fa118e61154c4b7089b083a714c4dbcd
+run_name: rumbling-bear-864
+run_uuid: fa118e61154c4b7089b083a714c4dbcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270622149
+status: 3
+tags: []
+user_id: dahab

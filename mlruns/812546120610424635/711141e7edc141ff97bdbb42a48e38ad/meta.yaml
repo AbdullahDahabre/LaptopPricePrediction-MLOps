@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/711141e7edc141ff97bdbb42a48e38ad/artifacts
+deleted_time: 1747253495699
+end_time: 1747252975755
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 711141e7edc141ff97bdbb42a48e38ad
+run_name: crawling-dolphin-387
+run_uuid: 711141e7edc141ff97bdbb42a48e38ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252975618
+status: 3
+tags: []
+user_id: dahab

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/64ceca092ada4121952b34ef68a94efd/artifacts
+end_time: 1750266497417
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: active
+run_id: 64ceca092ada4121952b34ef68a94efd
+run_name: Ridge
+run_uuid: 64ceca092ada4121952b34ef68a94efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266497342
+status: 3
+tags: []
+user_id: dahab

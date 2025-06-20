@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/e12edf8e2fd9498fb118c15f1ff6cb48/artifacts
+deleted_time: 1750271703609
+end_time: 1750270248557
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: e12edf8e2fd9498fb118c15f1ff6cb48
+run_name: silent-finch-357
+run_uuid: e12edf8e2fd9498fb118c15f1ff6cb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270248416
+status: 3
+tags: []
+user_id: dahab

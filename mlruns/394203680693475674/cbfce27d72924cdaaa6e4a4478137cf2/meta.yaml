@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/394203680693475674/cbfce27d72924cdaaa6e4a4478137cf2/artifacts
+deleted_time: 1750271801552
+end_time: 1750271043146
+entry_point_name: ''
+experiment_id: '394203680693475674'
+lifecycle_stage: deleted
+run_id: cbfce27d72924cdaaa6e4a4478137cf2
+run_name: resilient-grub-850
+run_uuid: cbfce27d72924cdaaa6e4a4478137cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271043039
+status: 3
+tags: []
+user_id: dahab

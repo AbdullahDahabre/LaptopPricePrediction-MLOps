@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/3e4b8ae0215745588668eb092e0c8ff2/artifacts
+deleted_time: 1747253376296
+end_time: 1747250139647
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 3e4b8ae0215745588668eb092e0c8ff2
+run_name: learned-cow-705
+run_uuid: 3e4b8ae0215745588668eb092e0c8ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250139510
+status: 3
+tags: []
+user_id: dahab

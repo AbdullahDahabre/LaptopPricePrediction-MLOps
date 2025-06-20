@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/4ae3784c1a714fcfb5de1dbe70585e89/artifacts
+deleted_time: 1750271703736
+end_time: 1750270603824
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 4ae3784c1a714fcfb5de1dbe70585e89
+run_name: suave-mule-441
+run_uuid: 4ae3784c1a714fcfb5de1dbe70585e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270603687
+status: 3
+tags: []
+user_id: dahab

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/6b84993d2ae64fcd872bca9f460bbf61/artifacts
+deleted_time: 1750266799785
+end_time: 1750264305543
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 6b84993d2ae64fcd872bca9f460bbf61
+run_name: burly-foal-646
+run_uuid: 6b84993d2ae64fcd872bca9f460bbf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750264305418
+status: 3
+tags: []
+user_id: dahab

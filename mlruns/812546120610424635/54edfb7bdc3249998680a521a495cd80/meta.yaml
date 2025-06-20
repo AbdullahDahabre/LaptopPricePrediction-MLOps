@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/54edfb7bdc3249998680a521a495cd80/artifacts
+deleted_time: 1750271703530
+end_time: 1750269725309
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 54edfb7bdc3249998680a521a495cd80
+run_name: dapper-hen-525
+run_uuid: 54edfb7bdc3249998680a521a495cd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269725169
+status: 3
+tags: []
+user_id: dahab

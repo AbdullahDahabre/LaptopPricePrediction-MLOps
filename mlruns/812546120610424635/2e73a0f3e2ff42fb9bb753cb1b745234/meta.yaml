@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/2e73a0f3e2ff42fb9bb753cb1b745234/artifacts
+end_time: 1747251796408
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: active
+run_id: 2e73a0f3e2ff42fb9bb753cb1b745234
+run_name: mysterious-lynx-443
+run_uuid: 2e73a0f3e2ff42fb9bb753cb1b745234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251796286
+status: 3
+tags: []
+user_id: dahab

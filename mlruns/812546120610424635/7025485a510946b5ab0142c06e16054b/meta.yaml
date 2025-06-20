@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/7025485a510946b5ab0142c06e16054b/artifacts
+deleted_time: 1747253363386
+end_time: 1747250138995
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 7025485a510946b5ab0142c06e16054b
+run_name: stately-toad-730
+run_uuid: 7025485a510946b5ab0142c06e16054b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250138875
+status: 3
+tags: []
+user_id: dahab

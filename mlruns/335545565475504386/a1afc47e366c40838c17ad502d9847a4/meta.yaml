@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/a1afc47e366c40838c17ad502d9847a4/artifacts
+deleted_time: 1750271779490
+end_time: 1750269638260
+entry_point_name: ''
+experiment_id: '335545565475504386'
+lifecycle_stage: deleted
+run_id: a1afc47e366c40838c17ad502d9847a4
+run_name: RandomForestRegressor
+run_uuid: a1afc47e366c40838c17ad502d9847a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269637838
+status: 3
+tags: []
+user_id: dahab

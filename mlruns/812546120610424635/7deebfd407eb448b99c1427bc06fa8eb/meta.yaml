@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/7deebfd407eb448b99c1427bc06fa8eb/artifacts
+deleted_time: 1750266860931
+end_time: 1750263744976
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 7deebfd407eb448b99c1427bc06fa8eb
+run_name: bedecked-wolf-50
+run_uuid: 7deebfd407eb448b99c1427bc06fa8eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750263744868
+status: 3
+tags: []
+user_id: dahab

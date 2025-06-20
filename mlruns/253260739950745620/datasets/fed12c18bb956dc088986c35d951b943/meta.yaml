@@ -1,0 +1,11 @@
+digest: 4a4c2fa7
+name: dataset
+profile: '{"num_rows": 800, "num_elements": 4800}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Brand", "required": true},
+  {"type": "double", "name": "Processor_Speed", "required": true}, {"type": "long",
+  "name": "RAM_Size", "required": true}, {"type": "long", "name": "Storage_Capacity",
+  "required": true}, {"type": "double", "name": "Screen_Size", "required": true},
+  {"type": "double", "name": "Weight", "required": true}]}'
+source: '{"tags": {"mlflow.user": "dahab", "mlflow.source.name": "c:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/src/train.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

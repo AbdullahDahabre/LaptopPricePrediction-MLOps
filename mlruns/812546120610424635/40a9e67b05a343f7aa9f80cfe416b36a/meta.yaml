@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/40a9e67b05a343f7aa9f80cfe416b36a/artifacts
+deleted_time: 1750271703359
+end_time: 1750269350684
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 40a9e67b05a343f7aa9f80cfe416b36a
+run_name: polite-carp-567
+run_uuid: 40a9e67b05a343f7aa9f80cfe416b36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269350573
+status: 3
+tags: []
+user_id: dahab

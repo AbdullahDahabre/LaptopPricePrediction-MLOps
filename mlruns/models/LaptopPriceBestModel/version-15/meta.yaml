@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747252949687
+current_stage: Archived
+description: null
+last_updated_timestamp: 1750263756524
+name: LaptopPriceBestModel
+run_id: 8a91f1ddcdb045e8b2a0c75b41861a07
+run_link: null
+source: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/8a91f1ddcdb045e8b2a0c75b41861a07/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/335545565475504386/8a91f1ddcdb045e8b2a0c75b41861a07/artifacts/model
+user_id: null
+version: 15

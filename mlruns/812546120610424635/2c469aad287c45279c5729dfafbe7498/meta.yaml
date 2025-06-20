@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/812546120610424635/2c469aad287c45279c5729dfafbe7498/artifacts
+deleted_time: 1750271703813
+end_time: 1750271024613
+entry_point_name: ''
+experiment_id: '812546120610424635'
+lifecycle_stage: deleted
+run_id: 2c469aad287c45279c5729dfafbe7498
+run_name: rumbling-flea-605
+run_uuid: 2c469aad287c45279c5729dfafbe7498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271024476
+status: 3
+tags: []
+user_id: dahab

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/dahab/OneDrive/Desktop/Project-AbdullahDahabre-2281427/mlruns/253260739950745620/35efb83cee8c48cfbd107cff47fa3332/artifacts
+deleted_time: 1750271403018
+end_time: 1750269343937
+entry_point_name: ''
+experiment_id: '253260739950745620'
+lifecycle_stage: deleted
+run_id: 35efb83cee8c48cfbd107cff47fa3332
+run_name: LaptopPricePredictor_Ridge_r2_1.00
+run_uuid: 35efb83cee8c48cfbd107cff47fa3332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269337246
+status: 3
+tags: []
+user_id: dahab
