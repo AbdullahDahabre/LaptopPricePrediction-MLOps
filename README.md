@@ -124,6 +124,15 @@ This project demonstrates an end-to-end MLOps pipeline for laptop price predicti
 
 ---
 
+## Data Source
+
+The dataset used in this project is publicly available on Kaggle:  
+[Laptop Price Prediction Dataset – by MrSimple07](https://www.kaggle.com/datasets/mrsimple07/laptoppriceprediction)
+
+All data rights belong to the original author. This project uses the dataset strictly for educational and research purposes.
+
+---
+
 ## License
 
 This project is licensed under the MIT License.
